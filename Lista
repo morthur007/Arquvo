@@ -5,3 +5,4 @@ class Lista {
 	String[] qui = {q, l, c};
 	String[] sex = {c, q, l};
 	String[] sab = {l, c, q};
+	}
