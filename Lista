@@ -1,0 +1,7 @@
+class Lista {
+	String[] seg = {q, l, c};
+	String[] ter = {c, q, l};
+	String[] qua = {l, c, q};
+	String[] qui = {q, l, c};
+	String[] sex = {c, q, l};
+	String[] sab = {l, c, q};
